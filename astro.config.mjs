@@ -2,6 +2,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://kurosakirito.github.io',
+    site: 'https://kurosakirito.github.io', 
     base: '/cosmic-corot',
 });
